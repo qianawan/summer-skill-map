@@ -234,7 +234,7 @@ with st.sidebar:
     我是 **lunaire**，一个正在用 AI 写代码的准留学生，8 月去瑞典 KTH 读研。
     这是我的 VibeCoding 练手作品——用自然语言写出一个 App。
 
-    > 🐙 GitHub: [开源代码]
+    > 🐙 GitHub: [github.com/oliviawann/summer-skill-map](https://github.com/oliviawann/summer-skill-map)
     > 📱 小红书: @lunaire
 
     如果规划对你有帮助，分享给你的同学就是最好的支持 ❤️
