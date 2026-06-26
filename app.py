@@ -208,7 +208,7 @@ col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
     st.markdown("""
     <div style="text-align: center; color: #888; font-size: 14px;">
-    📱 小红书 <b>@lunairestudio</b> · 🐙 GitHub <b>oliviawann</b>
+    📱 小红书 <b>@lunairestudio</b> · 🐙 GitHub <b>qianawan</b>
     </div>
     """, unsafe_allow_html=True)
 
@@ -227,5 +227,5 @@ with st.sidebar:
     st.markdown("### 🔗 找到我")
     st.markdown("""
     📱 小红书 **@lunairestudio**
-    🐙 GitHub **oliviawann**
+    🐙 GitHub **qianawan**
     """)

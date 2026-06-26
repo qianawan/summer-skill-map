@@ -35,7 +35,7 @@
 ## 🏃 本地运行
 
 ```bash
-git clone https://github.com/oliviawann/summer-skill-map.git
+git clone https://github.com/qianawan/summer-skill-map.git
 cd summer-skill-map
 pip install -r requirements.txt
 export DEEPSEEK_API_KEY="sk-..."
@@ -47,7 +47,7 @@ streamlit run app.py
 **lunaire** — 一个用 AI 写代码的准留学生，2026 年 8 月去瑞典 KTH 读研。
 
 - 📱 小红书: @lunaire
-- 🐙 GitHub: [oliviawann](https://github.com/oliviawann)
+- 🐙 GitHub: [qianawan](https://github.com/qianawan)
 
 ---
 
