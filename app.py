@@ -208,9 +208,7 @@ col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
     st.markdown("""
     <div style="text-align: center; color: #888; font-size: 14px;">
-    🛠️ 用 <b>VibeCoding</b> 在 1 小时内写成 · 完全免费 · 开源 <br>
-    👤 <b>lunaire</b> — 准留学生，8月去瑞典KTH读研 🇸🇪 <br>
-    📱 小红书 <b>@lunaire</b> · 🐙 GitHub <b>oliviawann</b>
+    📱 小红书 <b>@lunairestudio</b> · 🐙 GitHub <b>oliviawann</b>
     </div>
     """, unsafe_allow_html=True)
 
@@ -226,16 +224,8 @@ with st.sidebar:
         st.success("✅ 已配置")
 
     st.divider()
-    st.markdown("### ☕ 请我喝杯奶茶")
-    st.caption("完全免费使用。如果对你有帮助——")
+    st.markdown("### 🔗 找到我")
     st.markdown("""
-    这个工具会一直免费 & 开源。
-
-    我是 **lunaire**，一个正在用 AI 写代码的准留学生，8 月去瑞典 KTH 读研。
-    这是我的 VibeCoding 练手作品——用自然语言写出一个 App。
-
-    > 🐙 GitHub: [github.com/oliviawann/summer-skill-map](https://github.com/oliviawann/summer-skill-map)
-    > 📱 小红书: @lunaire
-
-    如果规划对你有帮助，分享给你的同学就是最好的支持 ❤️
+    📱 小红书 **@lunairestudio**
+    🐙 GitHub **oliviawann**
     """)
