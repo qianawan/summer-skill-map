@@ -1,3 +1,15 @@
+---
+title: 准大学生暑假技能地图
+emoji: 🗺️
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.44.1"
+python_version: "3.11"
+app_file: app.py
+pinned: false
+---
+
 # 🗺️ 准大学生暑假技能地图
 
 > 高考结束了，接下来三个月做什么？输入专业，AI 帮你定制专属暑假规划 + 大学四年路线图。
